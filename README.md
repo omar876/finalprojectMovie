@@ -10,9 +10,9 @@ This python code generate a website that displays the poster images (image uploa
 
 Contents
 
-readme
-media.py: contains code for the __init__ funtion, and instance method.
-entertainment_center.py: contains all instances of the class movie for 9 movie objects.
+readme,
+media.py: contains code for the __init__ funtion, and instance method,
+entertainment_center.py: contains all instances of the class movie for 9 movie objects,
 fresh_tomatoes.py: contains all the codes to create a website html, css, javascript(supplied by Udacity)
 
 
